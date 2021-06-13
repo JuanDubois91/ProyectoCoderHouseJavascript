@@ -1,0 +1,238 @@
+[    
+    {
+     "id":0, 
+     "cantidad":1,
+     "imagen":"imgProductos/monopoly.png",
+     "nombre":"Monopoly", 
+     "marca":"Hasbro", 
+     "genero":"Negocios",        
+     "precio":5000, 
+     "stock":2
+    },
+
+    {
+     "id":1,                           
+     "cantidad":1,
+     "imagen":"imgProductos/Jenga.jpg",
+     "nombre":"Jenga", 
+     "marca":"Hasbro", 
+     "genero":"Habilidad", 
+     "precio":3000, 
+     "stock":4
+    },
+
+    {
+     "id":2, 
+     "cantidad":1,
+     "imagen":"imgProductos/Clue.jpg",        
+     "nombre":"Clue", 
+     "marca":"Hasbro", 
+     "genero":"Misterio", 
+     "precio":3100, 
+     "stock":3
+    },
+
+    {
+     "id":3, 
+     "cantidad":1,
+     "imagen":"imgProductos/T.E.G.jpg",
+     "nombre":"TEG", 
+     "marca":"Yetem",         
+     "genero":"Estrategia", 
+     "precio":3700, 
+     "stock":5
+    },
+
+    {
+     "id":4, 
+     "cantidad":1,
+     "imagen":"imgProductos/damas.jpg",
+     "nombre":"Damas",     
+     "marca":"Ruibal", 
+     "genero":"Estrategia", 
+     "precio":970, 
+     "stock":6
+    },
+
+    {
+     "id":5, 
+     "cantidad":1,
+     "imagen":"imgProductos/Domino.jpg",
+     "nombre":"Dominó",                     
+     "marca":"Ruibal", 
+     "genero":"Educativo", 
+     "precio":1500, 
+     "stock":7
+    },
+
+    {
+     "id":6, 
+     "cantidad":1,
+     "imagen":"imgProductos/Scrabble.jpg",                 
+     "nombre":"Scrabble", 
+     "marca":"Hasbro", 
+     "genero":"Estrategia, palabras", 
+     "precio":3100, 
+     "stock":9
+    },
+
+    {
+     "id":7, 
+     "cantidad":1,
+     "imagen":"imgProductos/Aventureros.jpg",
+     "nombre":"Aventureros al tren(Europa)",                            
+     "marca":"Days of Wonder", 
+     "genero":"Estrategia", 
+     "precio":13000, 
+     "stock":2
+    },
+
+    {
+     "id":8, 
+     "cantidad":1,
+     "imagen":"imgProductos/BatallaNaval.jpg",
+     "nombre":"Batalla Naval",                                
+     "marca":"Ruibal", 
+     "genero":"Estrategia", 
+     "precio":1200, 
+     "stock":6
+    },
+
+    {
+     "id":9, 
+     "cantidad":1,
+     "imagen":"imgProductos/Pictionary.jpg",
+     "nombre":"Pictionary", 
+     "marca":"Mattel",                           
+     "genero":"Estrategia", 
+     "precio":850, 
+     "stock":3
+    },
+
+    {
+     "id":10, 
+     "cantidad":1,
+     "imagen":"imgProductos/Nreda4.jpg",
+     "nombre":"Nreda2", 
+     "marca":"Nupro",             
+     "genero":"Destreza", 
+     "precio":1200, 
+     "stock":4
+    },
+
+    {
+     "id":11, 
+     "cantidad":1,
+     "imagen":"imgProductos/DominoGranjaDeZenon.jpg",
+     "nombre":"Dominó granja de zenón",                     
+     "marca":"Ditoys", 
+     "genero":"Educativo", 
+     "precio":1090, 
+     "stock":10
+    },
+
+    {
+     "id":12, 
+     "cantidad":1,
+     "imagen":"imgProductos/MonkyLoco.jpg",
+     "nombre":"Monky loco",                  
+     "marca":"Ditoys", 
+     "genero":"Habilidad", 
+     "precio":1790, 
+     "stock":11
+    },
+
+    {
+     "id":13, 
+     "cantidad":1,
+     "imagen":"imgProductos/preguntados.png",
+     "nombre":"Preguntados",                        
+     "marca":"ToyCo",
+     "genero":"Educativo",
+     "precio":2600, 
+     "stock":12
+    },
+
+    {
+     "id":14, 
+     "cantidad":1,
+     "imagen":"imgProductos/life.jpg",
+     "nombre":"Life",            
+     "marca":"Hasbro", 
+     "genero":"Estrategia", 
+     "precio":3500, 
+     "stock":13
+    },
+
+    {
+     "id":15, 
+     "cantidad":1,
+     "imagen":"imgProductos/twister.jpg",
+     "nombre":"Twister",                      
+     "marca":"Hasbro", 
+     "genero":"Destreza", 
+     "precio":4200, 
+     "stock":9
+    },
+
+    {
+     "id":16, 
+     "cantidad":1,
+     "imagen":"imgProductos/rapigrama.jpg",
+     "nombre":"Rapigrama", 
+     "marca":"Ruibal",                  
+     "genero":"Educativo", 
+     "precio":1600, 
+     "stock":10
+    },
+
+    {
+     "id":17, 
+     "cantidad":1,
+     "imagen":"imgProductos/ludo.jpg",
+     "nombre":"Ludo", 
+     "marca":"Ruibal",            
+     "genero":"Azar", 
+     "precio":1200, 
+     "stock":8
+    },
+
+    {
+     "id":18, 
+     "cantidad":1,
+     "imagen":"imgProductos/crucigrama.jpg",
+     "nombre":"Crucigrama", 
+     "marca":"Ruibal",              
+     "genero":"Educativo", 
+     "precio":2100, 
+     "stock":9
+    },
+
+    {
+     "id":19, 
+     "cantidad":1,
+     "imagen":"imgProductos/DxVida.jpg",
+     "nombre":"DxVida",             
+     "marca":"Nupro", 
+     "genero":"Estrategia", 
+     "precio":2000, 
+     "stock":5
+    },
+
+     {
+     "id":20, 
+     "cantidad":1,
+     "imagen":"imgProductos/ravensburguer.jpg",
+     "nombre":"Ravensburguer puzzle",             
+     "marca":"Antex", 
+     "genero":"Rompecabezas", 
+     "precio":5500, 
+     "stock":3
+    }
+
+
+ ]  
+ 
+
+
+
